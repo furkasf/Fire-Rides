@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aa14149ee62e3a4b88b392935fbcd9c, type: 3}
+  m_Name: CD_LevelPool
+  m_EditorClassIdentifier: 
+  Prefab: {fileID: 7353697148173701298, guid: 709d22e104ae9174ab15c94e6438a3a3, type: 3}
+  Key: Level
+  InitialSize: 10
+  IsExtensible: 0
